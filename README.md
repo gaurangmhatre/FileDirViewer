@@ -4,6 +4,7 @@
 * Print out all file and directory names with size and date modified
 
 #### Using 2 different traversal methods:
+
 * Depth first
 * Breadth first 
 
