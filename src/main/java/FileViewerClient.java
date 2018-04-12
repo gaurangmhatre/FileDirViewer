@@ -30,7 +30,6 @@ public class FileViewerClient {
             if(details<0 || details>1)details=0;
             System.out.println("Detail level "+ ((details==0) ?"NORMAL":"VERBOSE"));
 
-
             if(mode==0){
                 depthFirstTraverse= new DepthFirstTraverse(fileURL);
                 depthFirstTraverse.showFiles(details);
