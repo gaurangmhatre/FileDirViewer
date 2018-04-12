@@ -20,7 +20,8 @@
     2. Messaging queues for memory issues
     
     
-#####Sample output 1
+1. Sample output
+
         --File List viewer--
         Enter the file url
         C:\Test
@@ -49,7 +50,7 @@
         Press 0 to continue, else press any number!
         
 
-#####Sample output 2
+2. Sample output 
 
         --File List viewer--
         Enter the file url
